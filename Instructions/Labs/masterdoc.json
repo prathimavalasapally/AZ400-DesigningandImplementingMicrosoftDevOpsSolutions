@@ -1,0 +1,93 @@
+[
+  {
+    "Name": "AZ 400 : Designing and Implementing Microsoft DevOps Solutions",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M00_Validate_lab_environment.md",
+        "Order": 1
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M01_L01_Agile_Planning_and_Portfolio_Management_with_Azure_Boards.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M02_L02_Version_Controlling_with_Git_in_Azure_Repos.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M03_L04_Configuring_Agent_Pools_and_Understanding_Pipeline_Styles.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M03_L05_Enabling_Continuous_Integration_with_Azure_Pipelines.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M03_L06_Integrating_External_Source_Control_with_Azure_Pipelines.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M03_L07_Implementing_GitHub_Actions_for_CI_CD.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M03_L08_Deploying_Docker_containers_to_Azure_App_Service_web_apps.md",
+        "Order": 8
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M04_L09_Controlling_Deployments_using_Release_Gates.md",
+        "Order": 9
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M04_L10_Creating_a_Release_Dashboard.md",
+        "Order": 10
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M05_L11_Configuring_Pipelines_as_Code_with_YAML.md",
+        "Order": 11
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M05_L12_Setting_Up_and_Running_Functional_Tests.md",
+        "Order": 12
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M05_L13_Integrating_Azure_Key_Vault_with_Azure_DevOps.md",
+        "Order": 13
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M05_L14_Enable_Dynamic_Configuration_and_Feature_Flags.md",
+        "Order": 14
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M06_L15_Azure_Deployments_Using_Resource_Manager_Templates.md",
+        "Order": 15
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M07_L16_Implement_Security_and_Compliance_in_an_Azure_Pipeline.md",
+        "Order": 16
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M07_L17_Managing_technical_debt_with_SonarQube_and_Azure_DevOps.md",
+        "Order": 17
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M08_L18_Package_Management_with_Azure_Artifacts.md",
+        "Order": 18
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M09_L19_Monitoring_Application_Performance_with_Application_Insights.md",
+        "Order": 19
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M09_L20_Integration_between_Azure_DevOps_and_Teams.md",
+        "Order": 20
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M09_L21_Sharing_Team_Knowledge_using_Azure_Project_Wikis.md",
+        "Order": 21
+      }
+    ]
+  }
+]
