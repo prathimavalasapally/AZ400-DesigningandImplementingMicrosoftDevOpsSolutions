@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Enable Dynamic Configuration and Feature Flags",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M05_L14_Enable_Dynamic_Configuration_and_Feature_Flags.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
