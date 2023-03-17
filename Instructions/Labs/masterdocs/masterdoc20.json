@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Integration between Azure DevOps and Teams",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M09_L20_Integration_between_Azure_DevOps_and_Teams.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
