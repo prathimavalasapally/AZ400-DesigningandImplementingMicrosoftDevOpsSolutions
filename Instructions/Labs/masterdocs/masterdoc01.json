@@ -1,12 +1,12 @@
 [
   {
-    "Name": "AZ 400 : Designing and Implementing Microsoft DevOps Solutions",
+    "Name": "Agile Planning and Portfolio Management with Azure Boards",
     "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
     "Files": [
 	    {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M01_L01_Agile_Planning_and_Portfolio_Management_with_Azure_Boards.md",
-        "Order": 2
+        "Order": 1
       }
       
     ]
