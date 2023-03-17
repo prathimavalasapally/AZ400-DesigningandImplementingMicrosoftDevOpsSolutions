@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Integrating Azure Key Vault with Azure DevOps",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M05_L13_Integrating_Azure_Key_Vault_with_Azure_DevOps.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
