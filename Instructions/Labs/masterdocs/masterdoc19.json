@@ -4,10 +4,13 @@
     "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
     "Files": [
-      
+      	{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/12-22-updates/Instructions/Labs/LabIntro.md",
+        "Order": 1
+      },
 	    {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M09_L19_Monitoring_Application_Performance_with_Application_Insights.md",
-        "Order": 1
+        "Order": 2
       }
       
     ]
