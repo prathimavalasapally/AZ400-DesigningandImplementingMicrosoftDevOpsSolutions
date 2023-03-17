@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Managing technical debt with SonarCloud and Azure DevOps",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M07_L17_Managing_technical_debt_with_SonarQube_and_Azure_DevOps.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
