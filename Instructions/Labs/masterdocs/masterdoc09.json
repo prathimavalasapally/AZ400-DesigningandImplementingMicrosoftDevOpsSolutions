@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Controlling Deployments using Classic Release Gates",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M04_L09_Controlling_Deployments_using_Release_Gates.md",
+        "Order": 1
+      }   
+    ]
+  }
+]
