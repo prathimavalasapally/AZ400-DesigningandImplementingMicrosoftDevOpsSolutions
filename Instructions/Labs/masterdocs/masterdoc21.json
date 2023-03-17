@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Sharing Team Knowledge using Azure Project Wikis",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M09_L21_Sharing_Team_Knowledge_using_Azure_Project_Wikis.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
