@@ -4,10 +4,14 @@
     "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
     "Files": [
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/12-22-updates/Instructions/Labs/LabIntro.md",
+        "Order": 1
+      },
       
 {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M03_L05_Enabling_Continuous_Integration_with_Azure_Pipelines.md",
-        "Order": 1
+        "Order": 2
       }   
     ]
   }
