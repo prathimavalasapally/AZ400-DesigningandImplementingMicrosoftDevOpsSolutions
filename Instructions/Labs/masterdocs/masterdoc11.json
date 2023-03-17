@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Configuring Pipelines as Code with YAML",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
+    "Files": [
+      
+{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/AZ400_M05_L11_Configuring_Pipelines_as_Code_with_YAML.md",
+        "Order": 1
+      }   
+    ]
+  }
+]
