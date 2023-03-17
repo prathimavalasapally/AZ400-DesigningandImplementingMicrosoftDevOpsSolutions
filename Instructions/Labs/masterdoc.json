@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Instructions/Labs/AZ400_M00_Validate_lab_environment.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/azure-pass/Instructions/Labs/lab-intro.md",
         "Order": 1
       },
 	  {
