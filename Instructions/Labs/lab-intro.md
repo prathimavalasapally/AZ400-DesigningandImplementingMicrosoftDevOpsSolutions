@@ -13,10 +13,8 @@
     > **Note:** In the welcome to Microsoft Edge page, select **Start without your data** and on the help for importing Google browsing data page select the **Continue without this data** button and procced to select **Confirm and start browsing** in the next page.
 
 1. On **Sign in to Microsoft Azure** blade, you will see a login screen, in that enter the following email/username and then click on **Next**. 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
-
+  
 1. Now enter the following password and click on **Sign in**.
-   * Password: <inject key="AzureAdUserPassword"></inject>
    
 1. In the pop-up for *Action Required*, select **Ask Later**.
 
